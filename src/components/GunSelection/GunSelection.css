@@ -1,0 +1,9 @@
+.gunSelect-main{
+    background-image: url(../../assets/image/lobby-bg.avif),
+    linear-gradient(35deg, rgba(31, 51, 72, 1) 29%, rgba(0, 0, 0, 1) 100%) !important;
+
+  background-blend-mode: overlay !important;
+}
+.gameselection-table{
+    background: rgb(33,33,29,0.9);
+}

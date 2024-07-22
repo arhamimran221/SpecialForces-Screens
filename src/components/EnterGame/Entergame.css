@@ -1,0 +1,13 @@
+.enter-game-main{
+    background: rgb(31,51,72);
+background: linear-gradient(35deg, rgba(31,51,72,1) 29%, rgba(0,0,0,1) 100%);
+}
+.clan{
+    padding: 10px 0px;
+    border-top: 1px solid #101b1b;
+    border-bottom: 1px solid #101b1b;
+}
+.button-reset{
+    background: rgb(32,59,90);
+background: linear-gradient(3deg, rgba(32,59,90,1) 29%, rgba(0,0,0,1) 100%);
+}

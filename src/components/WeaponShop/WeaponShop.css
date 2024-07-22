@@ -1,0 +1,19 @@
+.weapon-shop {
+  background-image: url(../../assets/image/lobby-bg.avif),
+    linear-gradient(35deg, rgba(31, 51, 72, 1) 29%, rgba(0, 0, 0, 1) 100%) !important;
+
+  background-blend-mode: overlay !important;
+}
+.modal-bg{
+    background-color: black;
+    background: rgb(25,25,25,0.9);
+    border: 1px solid #696b6d;
+    color: white;
+}
+:where(.css-dev-only-do-not-override-1rqnfsa).ant-modal .ant-modal-content{
+    background: none;
+
+}
+.border-b{
+    border-bottom: 1px solid #696b6d;
+}
